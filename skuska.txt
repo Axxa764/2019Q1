@@ -5,3 +5,5 @@ druha zmena
 piata zmena
 
 feature1
+
+feature2
