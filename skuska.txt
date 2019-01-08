@@ -4,6 +4,7 @@ prva zmena
 druha zmena
 piata zmena
 
+hotfix
 feature1
 feature2
 
