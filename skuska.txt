@@ -18,4 +18,5 @@ change 2
 
 change 3
 
-A tu bude druhy commit.
+hotfix
+//A tu bude druhy commit.
