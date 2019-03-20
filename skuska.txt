@@ -8,6 +8,10 @@ hotfix
 feature1
 feature2
 
+feature2
+
+Zmena od ineho uzivatela
+
 change 1
 
 change 2
